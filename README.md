@@ -62,7 +62,7 @@ Once this step was done, the following one was cleaning the data set column by c
 **Rest of the columns** --> Irrelevant ofr our purpose.
 
 Final data type acomplished:
-![DataTypes]("Images\DataTypes.png")
+![DataTypes]("https://github.com/adominguez033/Project1_DA_Ironhack/blob/main/Images/DataTypes.png")
 
 ## Final insigts
 
