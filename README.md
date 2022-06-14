@@ -24,6 +24,7 @@ In this webpage, some inputs are given:
 
 1. **Investigators** 
 
+The main problem is that the data frame is extremelly dirty and lots of cleaning must be done in order to take insights from it.
 
 ## Data Cleaning.
 
@@ -76,6 +77,7 @@ Conclusión: Los ataques se producen mientras la víctima realiza una actividad 
 ### Insight 4
 Conclusión: La gran mayoría de las victimas son de sexo masculino. Esto no significa que la comida preferida de los tiburones sean hombres. Sino porque los deportes marinos son practicados principalmente por hombres.
 
-
+### Insight 5
+Conclusión: Se producen más ataques en zonas con mayor número de tiburones.
 
 End of Project 1!!
